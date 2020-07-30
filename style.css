@@ -1,0 +1,51 @@
+:root {
+  --bckgr-clr: #491a28;
+}
+body{
+	background: var(--bckgr-clr);
+	color: #e85361;
+}
+input, input:before, input:after, button {
+    outline: none;
+    border: none;
+}
+input, button{
+	background: var(--bckgr-clr);
+	color: #f44336;
+}
+input::placeholder{
+	color: #f4433630;
+}
+#show_up{
+	width: 500px;
+	display: none;
+	position: fixed;
+   background: var(--bckgr-clr);
+   opacity: .9;
+}
+
+#opacity{
+	opacity: .4;
+	font-size: 12px;
+}
+
+#show_up a, #show_up button{
+	border-bottom: 1px solid #f443360f;
+	display: inline-block;
+	padding: 12px;
+	font-size: 16px;
+	text-align: center;
+	transition: 1s;
+}
+#show_up a:hover, #show_up button:hover{
+	transition: 1s;
+	color: white;
+	cursor: hover;
+}
+#result_search{
+   padding: 16px;
+   top: 200px;
+}
+a {
+    text-decoration: none;
+}
