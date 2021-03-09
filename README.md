@@ -5,7 +5,7 @@ This repository contain simple php search tool. jQuery, Ajax, Javascript, php ar
 ![example_search.gif](example_search.gif)
 
 ## Install
-1. clone repository in domen folder of local server, add local domen (I use Open Server)
+1. clone repository to domen folder of local server, add local domen (I use Open Server)
 2. add database in local server
 3. connect the database with db.php
 4. turn on the local website
