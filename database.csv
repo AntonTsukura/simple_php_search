@@ -1,0 +1,29 @@
+id;name;name_description;increased_parameter;low_parameter;normal_parameter;unit_of_measure;increased_parameter_link;low_parameter_link;normal_parameter_link
+1;RBC;something description;>6,5;207;117;440;rbc_increase;rbc_low;rbc_normal
+2;MCV;something description;>100;68;180;484;mcv_increase;mcv_low;mcv_normal
+3;RDW;something description;>16;408;166;249;rdw_increase;rdw_low;rdw_normal
+4;HCT;something description;>0,54;364;458;440;hct_increase;hct_low;hct_normal
+5;ESR;something description;>;212;343;156;esr_increase;esr_low;esr_normal
+6;RET;something description;>1,5;197;70;45;ret_increase;ret_low;ret_normal
+7;WBC;something description;>10 ;100;211;222;wbc_increase;wbc_low;wbc_normal
+8;NEU;something description;>60;355;82;14;neu_increase;neu_low;neu_normal
+9;EO;something description;>;51;425;498;eo_increase;eo_low;eo_normal
+10;MON;something description;>11;405;160;147;mon_increase;mon_low;mon_normal
+11;BAS;something description;>;13;118;142;bas_increase;bas_low;bas_normal
+12;LYM;something description;>37;13;39;107;lym_increase;lym_low;lym_normal
+13;PLT;something description;>400;193;375;279;plt_increase;plt_low;plt_normal
+14;HGB;something description;>170;185;382;350;hgb_increase;hgb_low;hgb_normal
+15;MCH;something description;>35;420;27;242;mch_increase;mch_low;mch_normal
+16;MCHC;something description;>360;322;226;346;mchc_increase;mchc_low;mchc_normal
+17;MPV;something description;>11;468;153;474;mpv_increase;mpv_low;mpv_normal
+18;tht;something description;>87;229;370;436;;;
+19;jj;something description;>6,1;463;318;468;;;
+20;ht;something description;>8,3;497;72;219;;;
+21;trthr;something description;>;193;375;279;;;
+22;tht;something description;>;185;382;350;;;
+23;tht;something description;>;420;27;242;;;
+24;h;something description;>;322;226;346;;;
+25;tht;something description;>;468;153;474;;;
+26;hthm;something description;>;229;370;436;;;
+27;m;something description;>;463;318;468;;;
+28;aharth;something description;>;497;72;219;;;
